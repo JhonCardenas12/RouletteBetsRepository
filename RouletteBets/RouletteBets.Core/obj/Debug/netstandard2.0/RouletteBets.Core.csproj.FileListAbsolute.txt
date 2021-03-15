@@ -1,0 +1,12 @@
+C:\Users\jhon\Desktop\Masivian\RouletteBets\RouletteBets.Core\bin\Debug\netstandard2.0\RouletteBets.Core.deps.json
+C:\Users\jhon\Desktop\Masivian\RouletteBets\RouletteBets.Core\bin\Debug\netstandard2.0\RouletteBets.Core.dll
+C:\Users\jhon\Desktop\Masivian\RouletteBets\RouletteBets.Core\bin\Debug\netstandard2.0\RouletteBets.Core.pdb
+C:\Users\jhon\Desktop\Masivian\RouletteBets\RouletteBets.Core\obj\Debug\netstandard2.0\RouletteBets.Core.csprojAssemblyReference.cache
+C:\Users\jhon\Desktop\Masivian\RouletteBets\RouletteBets.Core\obj\Debug\netstandard2.0\RouletteBets.Core.AssemblyInfoInputs.cache
+C:\Users\jhon\Desktop\Masivian\RouletteBets\RouletteBets.Core\obj\Debug\netstandard2.0\RouletteBets.Core.AssemblyInfo.cs
+C:\Users\jhon\Desktop\Masivian\RouletteBets\RouletteBets.Core\obj\Debug\netstandard2.0\RouletteBets.Core.csproj.CoreCompileInputs.cache
+C:\Users\jhon\Desktop\Masivian\RouletteBets\RouletteBets.Core\obj\Debug\netstandard2.0\RouletteBets.Core.dll
+C:\Users\jhon\Desktop\Masivian\RouletteBets\RouletteBets.Core\obj\Debug\netstandard2.0\RouletteBets.Core.pdb
+C:\Users\jhon\Desktop\Masivian\RouletteBets\RouletteBets.Core\bin\Debug\netstandard2.0\RouletteBets.DataBase.dll
+C:\Users\jhon\Desktop\Masivian\RouletteBets\RouletteBets.Core\bin\Debug\netstandard2.0\RouletteBets.DataBase.pdb
+C:\Users\jhon\Desktop\Masivian\RouletteBets\RouletteBets.Core\obj\Debug\netstandard2.0\RouletteBets.Core.csproj.CopyComplete
